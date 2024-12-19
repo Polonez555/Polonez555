@@ -1,9 +1,6 @@
-<h1 align="center">Hi 👋, I'm Furrymaster</h1>
-<h3 align="center">A passionate backshot developer from Kurdistan</h3>
+<h3 align="center">I'm a passionate backshot developer from Kurdistan</h3>
 
-- 🔭 I’m currently working on **a Fursuit**
-
-- 🌱 I’m currently learning **machine language**
+- 🌱 I’m currently learning **how to build a nucclear bomb**
 
 - 👯 I’m looking to collaborate on **the Large Hadron Collider**
 
